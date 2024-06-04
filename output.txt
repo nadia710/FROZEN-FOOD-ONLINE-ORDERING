@@ -1,0 +1,97 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Customer Name  |Customer Phone  |Customer Address       |Food Name         |Food Quantity  |Food Size    |Food Price   |Food Category |Expire Date  |Amount(RM)   |Payment Status |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Afrina         |0178934456      |Lot 7 Jalan Damai      |Sweetcorn         |2              |Small        |4.0          |Vegetables    |2024/1/23    |8.0          |Paid           |
+|Afrina         |0178934456      |Lot 7 Jalan Damai      |Dumpling Beef     |3              |Large        |7.0          |Meat          |2024/1/23    |21.0         |Paid           |
+|Danish         |0197826514      |No 13 Jalan Hj Hassan  |Blueberry         |1              |Large        |13.0         |Fruits        |2025/1/30    |13.0         |Unpaid         |
+|Danish         |0197826514      |No 13 Jalan Hj Hassan  |Nugget            |2              |Small        |5.0          |Meat          |2025/1/30    |10.0         |Unpaid         |
+|Aira           |0145623315      |No 32 Kampung Tongkak  |Dumpling Chicken  |5              |Large        |15.0         |Meat          |2023/1/30    |75.0         |Unpaid         |
+|Yasmein        |0112348990      |Lot 21 Jalan Bahagia   |Peas              |1              |Small        |5.0          |Vegetables    |2025/1/31    |5.0          |Paid           |
+|Yasmein        |0112348990      |Lot 21 Jalan Bahagia   |Blueberry         |1              |Large        |13.0         |Fruits        |2025/1/31    |13.0         |Paid           |
+|Daniel         |0123445612      |No 56 Jalan Gagak      |Mix Vegetables    |2              |Small        |7.0          |Vegetables    |2025/12/31   |14.0         |Paid           |
+|Daniel         |0123445612      |No 56 Jalan Gagak      |Mix Fruit         |5              |Large        |17.0         |Fruits        |2025/12/31   |85.0         |Paid           |
+|Kamal          |0109912672      |No 322 Kampung Melayu  |Nugget            |3              |Small        |6.0          |Meat          |2025/12/23   |18.0         |Unpaid         |
+|Kamal          |0109912672      |No 322 Kampung Melayu  |Dumpling Beef     |3              |Small        |6.0          |Meat          |2025/12/23   |18.0         |Unpaid         |
+|Qasrina        |0122345212      |No 90 Kampung Paimin   |Mix Fruit         |2              |Large        |17.0         |Fruits        |2025/12/31   |34.0         |Paid           |
+|Qasrina        |0122345212      |No 90 Kampung Paimin   |Blueberry         |2              |Large        |13.0         |Fruits        |2025/12/31   |26.0         |Paid           |
+|Zaris          |0177855121      |Lot 67 Jalan Sena      |Mix Vegetables    |1              |Small        |7.0          |Vegetables    |2025/9/30    |7.0          |Paid           |
+|Zaris          |0177855121      |Lot 67 Jalan Sena      |Peas              |2              |Large        |10.0         |Vegetables    |2024/3/30    |20.0         |Paid           |
+|Arianna        |0118809071      |Lot 1 Jalan Mass       |Dumpling Beef     |5              |Large        |15.0         |Meat          |2025/9/30    |75.0         |Paid           |
+|Arianna        |0118809071      |Lot 1 Jalan Mass       |Dumpling Chicken  |5              |Large        |15.0         |Meat          |2025/12/31   |75.0         |Paid           |
+|Danisha        |01128941552     |No 102 Kampung Hj Sen  |Raspberry         |3              |Small        |6.0          |Fruits        |2024/1/30    |18.0         |Paid           |
+|Aiman          |0165512341      |Lot 12 Jalan Lapan     |Sweetcorn         |3              |Small        |4.0          |Vegetables    |2023/3/1     |12.0         |Unpaid         |
+|Aiman          |0165512341      |Lot 12 Jalan Lapan     |Nugget            |10             |Small        |5.0          |Meat          |2023/3/1     |50.0         |Unpaid         |
+|Farhana        |01324662047     |Kampung Parit Selamat  |Nugget            |2              |Large        |10.0         |Meat          |2023/3/1     |20.0         |Paid           |
+|Farhana        |01324662047     |Kampung Parit Selamat  |Sweetcorn         |2              |Large        |8.0          |Vegetables    |2023/3/1     |16.0         |Paid           |
+|Ain            |0134012408      |Kampung Sungai Ayam    |Nugget            |1              |Small        |5.0          |Meat          |2024/12/20   |5.0          |Paid           |
+|Ain            |0134012408      |Kampung Sungai Ayam    |Dumpling Beef     |1              |Small        |7.0          |Meat          |2024/12/20   |7.0          |Paid           |
+
+====================================================================================================================================================================================
+List of customers that have paid
+=====================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Customer Name  |Customer Phone  |Customer Address       |Food Name         |Food Quantity  |Food Size    |Food Price   |Food Category |Expire Date  |Amount(RM)   |Payment Status |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Afrina         |0178934456      |Lot 7 Jalan Damai      |Sweetcorn         |2              |Small        |4.0          |Vegetables    |2024/1/23    |8.0          |Paid           |
+|Afrina         |0178934456      |Lot 7 Jalan Damai      |Dumpling Beef     |3              |Large        |7.0          |Meat          |2024/1/23    |21.0         |Paid           |
+|Yasmein        |0112348990      |Lot 21 Jalan Bahagia   |Peas              |1              |Small        |5.0          |Vegetables    |2025/1/31    |5.0          |Paid           |
+|Yasmein        |0112348990      |Lot 21 Jalan Bahagia   |Blueberry         |1              |Large        |13.0         |Fruits        |2025/1/31    |13.0         |Paid           |
+|Daniel         |0123445612      |No 56 Jalan Gagak      |Mix Vegetables    |2              |Small        |7.0          |Vegetables    |2025/12/31   |14.0         |Paid           |
+|Daniel         |0123445612      |No 56 Jalan Gagak      |Mix Fruit         |5              |Large        |17.0         |Fruits        |2025/12/31   |85.0         |Paid           |
+|Qasrina        |0122345212      |No 90 Kampung Paimin   |Mix Fruit         |2              |Large        |17.0         |Fruits        |2025/12/31   |34.0         |Paid           |
+|Qasrina        |0122345212      |No 90 Kampung Paimin   |Blueberry         |2              |Large        |13.0         |Fruits        |2025/12/31   |26.0         |Paid           |
+|Zaris          |0177855121      |Lot 67 Jalan Sena      |Peas              |2              |Large        |10.0         |Vegetables    |2024/3/30    |20.0         |Paid           |
+|Arianna        |0118809071      |Lot 1 Jalan Mass       |Dumpling Beef     |5              |Large        |15.0         |Meat          |2025/9/30    |75.0         |Paid           |
+|Arianna        |0118809071      |Lot 1 Jalan Mass       |Dumpling Chicken  |5              |Large        |15.0         |Meat          |2025/12/31   |75.0         |Paid           |
+|Danisha        |01128941552     |No 102 Kampung Hj Sen  |Raspberry         |3              |Small        |6.0          |Fruits        |2024/1/30    |18.0         |Paid           |
+|Farhana        |01324662047     |Kampung Parit Selamat  |Nugget            |2              |Large        |10.0         |Meat          |2023/3/1     |20.0         |Paid           |
+|Farhana        |01324662047     |Kampung Parit Selamat  |Sweetcorn         |2              |Large        |8.0          |Vegetables    |2023/3/1     |16.0         |Paid           |
+|Ain            |0134012408      |Kampung Sungai Ayam    |Nugget            |1              |Small        |5.0          |Meat          |2024/12/20   |5.0          |Paid           |
+|Ain            |0134012408      |Kampung Sungai Ayam    |Dumpling Beef     |1              |Small        |7.0          |Meat          |2024/12/20   |7.0          |Paid           |
+
+====================================================================================================================================================================================
+List of customers that havent paid(Removed)
+=====================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Customer Name  |Customer Phone  |Customer Address       |Food Name         |Food Quantity  |Food Size    |Food Price   |Food Category |Expire Date  |Amount(RM)   |Payment Status |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Danish         |0197826514      |No 13 Jalan Hj Hassan  |Blueberry         |1              |Large        |13.0         |Fruits        |2025/1/30    |13.0         |Unpaid         |
+|Danish         |0197826514      |No 13 Jalan Hj Hassan  |Nugget            |2              |Small        |5.0          |Meat          |2025/1/30    |10.0         |Unpaid         |
+|Aira           |0145623315      |No 32 Kampung Tongkak  |Dumpling Chicken  |5              |Large        |15.0         |Meat          |2023/1/30    |75.0         |Unpaid         |
+|Kamal          |0109912672      |No 322 Kampung Melayu  |Nugget            |3              |Small        |6.0          |Meat          |2025/12/23   |18.0         |Unpaid         |
+|Kamal          |0109912672      |No 322 Kampung Melayu  |Dumpling Beef     |3              |Small        |6.0          |Meat          |2025/12/23   |18.0         |Unpaid         |
+|Zaris          |0177855121      |Lot 67 Jalan Sena      |Mix Vegetables    |1              |Small        |7.0          |Vegetables    |2025/9/30    |7.0          |Paid           |
+|Aiman          |0165512341      |Lot 12 Jalan Lapan     |Sweetcorn         |3              |Small        |4.0          |Vegetables    |2023/3/1     |12.0         |Unpaid         |
+|Aiman          |0165512341      |Lot 12 Jalan Lapan     |Nugget            |10             |Small        |5.0          |Meat          |2023/3/1     |50.0         |Unpaid         |
+
+=============================================
+	Total of each category
+==============================================
+
+Meat : 11
+Fruits : 6
+Vegetables : 7
+
+=====================================================================================================================================================================================
+Updated list
+=====================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Customer Name  |Customer Phone  |Customer Address       |Food Name         |Food Quantity  |Food Size    |Food Price   |Food Category |Expire Date  |Amount(RM)   |Payment Status |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=============================================
+Total for each customer
+=============================================
+Afrina : 29.0
+Danish : 23.0
+Aira : 75.0
+Yasmein : 18.0
+Daniel : 99.0
+Kamal : 36.0
+Qasrina : 60.0
+Zaris : 27.0
+Arianna : 150.0
+Danisha : 18.0
+Aiman : 62.0
+Farhana : 36.0
+Ain : 12.0

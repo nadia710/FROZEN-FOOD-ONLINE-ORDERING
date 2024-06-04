@@ -1,0 +1,24 @@
+Afrina,0178934456,Lot 7 Jalan Damai,Sweetcorn,2,Small,4,Vegetables,23,01,2024,8.00,Paid
+Afrina,0178934456,Lot 7 Jalan Damai,Dumpling Beef,3,Large,7,Meat,23,01,2024,21.00,Paid
+Danish,0197826514,No 13 Jalan Hj Hassan,Blueberry,1,Large,13,Fruits,30,01,2025,13.00,Unpaid
+Danish,0197826514,No 13 Jalan Hj Hassan,Nugget,2,Small,5,Meat,30,01,2025,10.00,Unpaid
+Aira,0145623315,No 32 Kampung Tongkak,Dumpling Chicken,5,Large,15,Meat,30,01,2023,75.00,Unpaid
+Yasmein,0112348990,Lot 21 Jalan Bahagia,Peas,1,Small,5,Vegetables,31,01,2025,5.00,Paid
+Yasmein,0112348990,Lot 21 Jalan Bahagia,Blueberry,1,Large,13,Fruits,31,01,2025,13.00,Paid
+Daniel,0123445612,No 56 Jalan Gagak,Mix Vegetables,2,Small,7,Vegetables,31,12,2025,14.00,Paid
+Daniel,0123445612,No 56 Jalan Gagak,Mix Fruit,5,Large,17,Fruits,31,12,2025,85.00,Paid
+Kamal,0109912672,No 322 Kampung Melayu,Nugget,3,Small,6,Meat,23,12,2025,18.00,Unpaid
+Kamal,0109912672,No 322 Kampung Melayu,Dumpling Beef,3,Small,6,Meat,23,12,2025,18.00,Unpaid
+Qasrina,0122345212,No 90 Kampung Paimin,Mix Fruit,2,Large,17,Fruits,31,12,2025,34.00,Paid
+Qasrina,0122345212,No 90 Kampung Paimin,Blueberry,2,Large,13,Fruits,31,12,2025,26.00,Paid
+Zaris,0177855121,Lot 67 Jalan Sena,Mix Vegetables,1,Small,7,Vegetables,30,09,2025,7.00,Paid 
+Zaris,0177855121,Lot 67 Jalan Sena,Peas,2,Large,10,Vegetables,30,03,2024,20.00,Paid
+Arianna,0118809071,Lot 1 Jalan Mass,Dumpling Beef,5,Large,15,Meat,30,09,2025,75.00,Paid
+Arianna,0118809071,Lot 1 Jalan Mass,Dumpling Chicken,5,Large,15,Meat,31,12,2025,75.00,Paid
+Danisha,01128941552,No 102 Kampung Hj Sen,Raspberry,3,Small,6,Fruits,30,01,2024,18.00,Paid
+Aiman,0165512341,Lot 12 Jalan Lapan,Sweetcorn,3,Small,4,Vegetables,01,03,2023,12.00,Unpaid
+Aiman,0165512341,Lot 12 Jalan Lapan,Nugget,10,Small,5,Meat,01,03,2023,50.00,Unpaid
+Farhana,01324662047,Kampung Parit Selamat,Nugget,2,Large,10,Meat,01,03,2023,20.00,Paid
+Farhana,01324662047,Kampung Parit Selamat,Sweetcorn,2,Large,8,Vegetables,01,03,2023,16.00,Paid
+Ain,0134012408,Kampung Sungai Ayam,Nugget,1,Small,5,Meat,20,12,2024,5.00,Paid
+Ain,0134012408,Kampung Sungai Ayam,Dumpling Beef,1,Small,7,Meat,20,12,2024,7.00,Paid
